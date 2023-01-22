@@ -1,0 +1,5 @@
+sanic
+diffusers
+transformers
+accelerate
+scipy
